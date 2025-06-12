@@ -19,7 +19,7 @@ Deployment: Ready for Vercel, Netlify, or any static hosting
 ## Clone the repository
 
 ```bash
-git clone [<your-repo-url>](https://github.com/hrishiNEU/nuxt_shop.git)
+git clone https://github.com/hrishiNEU/nuxt_shop.git
 cd shophub
 ```
 ## Install dependencies
