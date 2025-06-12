@@ -72,41 +72,6 @@
       </div>
     </section>
 
-    <!-- Team Section -->
-    <section class="py-16">
-      <div class="container mx-auto px-4">
-        <h2 class="text-3xl font-bold text-center mb-12 text-gray-800">Meet Our Team</h2>
-        <div class="grid md:grid-cols-3 gap-8 max-w-4xl mx-auto">
-          <div class="card text-center">
-            <div class="w-24 h-24 bg-gray-200 rounded-full mx-auto mb-4 flex items-center justify-center">
-              <span class="text-gray-500 text-sm">Photo</span>
-            </div>
-            <h3 class="text-lg font-semibold mb-1">Sarah Johnson</h3>
-            <p class="text-[#12b488] mb-2">Founder & CEO</p>
-            <p class="text-gray-600 text-sm">Leading the vision and strategy behind Nuxt Shop's growth and innovation.</p>
-          </div>
-          
-          <div class="card text-center">
-            <div class="w-24 h-24 bg-gray-200 rounded-full mx-auto mb-4 flex items-center justify-center">
-              <span class="text-gray-500 text-sm">Photo</span>
-            </div>
-            <h3 class="text-lg font-semibold mb-1">Mike Chen</h3>
-            <p class="text-[#12b488] mb-2">CTO</p>
-            <p class="text-gray-600 text-sm">Driving our technical excellence and ensuring our platform runs smoothly.</p>
-          </div>
-          
-          <div class="card text-center">
-            <div class="w-24 h-24 bg-gray-200 rounded-full mx-auto mb-4 flex items-center justify-center">
-              <span class="text-gray-500 text-sm">Photo</span>
-            </div>
-            <h3 class="text-lg font-semibold mb-1">Emma Davis</h3>
-            <p class="text-[#12b488] mb-2">Head of Customer Success</p>
-            <p class="text-gray-600 text-sm">Ensuring every customer has an amazing experience with our products and services.</p>
-          </div>
-        </div>
-      </div>
-    </section>
-
     <!-- Stats Section -->
     <section class="py-16 bg-[#12b488] text-white">
       <div class="container mx-auto px-4">
